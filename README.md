@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @urbanishka666
 - 👀 I’m interested in front-end developing
 - 🌱 I’m currently learning JavaScript
+- 📫 How to reach me ledovskoi456@gmail.com
+
 
 
 <!---
